@@ -1,0 +1,4 @@
+shamhash@127.0.0.1 098765
+shamitha@127.0.0.1 asdfgh
+hashmitha@127.0.0.1 qwert
+amrutha@127.0.0.1 12345
